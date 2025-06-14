@@ -4,7 +4,7 @@ Hello! I'm **Samuel De Dios** (a.k.a. Nilh), an undergraduate student in **Appli
 
 I'm particularly interested in **algorithmic problem solving** and **data analysis**. I enjoy tackling computational challenges such as optimal pathfinding, combinatorial optimization, and dynamic programming techniques.
 
-My technical experience includes **Python** (from scripting to applying AI models for data analysis), **C++**, **MySQL**, **Java**, **R**, and foundational knowledge of **web technologies** such as HTML, CSS, and JavaScript.
+My technical experience includes **Python** (from scripting to applying AI models for data analysis), **C++**, **SQL**, **Java**, **R**, and foundational knowledge of **web technologies** such as HTML, CSS, and JavaScript.
 
 I'm currently focused on improving my skills in **algorithm design**, developing clean and efficient code, and exploring **internship opportunities** where I can grow as a developer and contribute meaningfully.
 
@@ -20,7 +20,6 @@ I'm currently focused on improving my skills in **algorithm design**, developing
 ---
 
 ## 💻 Tech Stack
-
 ### Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -28,6 +27,7 @@ I'm currently focused on improving my skills in **algorithm design**, developing
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="SQL"/>
 </p>
 
 ### Libraries & Tools
@@ -35,8 +35,8 @@ I'm currently focused on improving my skills in **algorithm design**, developing
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SciPy_logo.svg/512px-SciPy_logo.svg.png" height="40" alt="SciPy"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SciPy_logo.svg/512px-SciPy_logo.svg.png" height="40" alt="SciPy"/>
 </p>
 
 ### Databases & Cloud
@@ -51,5 +51,6 @@ I'm currently focused on improving my skills in **algorithm design**, developing
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="Markdown"/>
   <img src="https://upload.wikimedia.org/commons/2/28/P5js-logo.svg" height="40" alt="p5.js"/>
 </p>
+
 
 <!-- Proudly created with ❤️ by Samuel De Dios -->
